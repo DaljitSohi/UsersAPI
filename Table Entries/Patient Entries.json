@@ -1,0 +1,72 @@
+[
+    {
+        "patientID": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "birthDate": "1990/05/23",
+        "email": "john_doe@email.com",
+        "primaryNo": "4165555555",
+        "secondaryNo": "9055555555",
+        "sex": "Male",
+        "address": "742 Evergreen Terrace, Toronto, ON,  Canada",
+        "username": "johnDoe",
+        "password": "$2a$10$B62vfAglp0h4dbVg23Ab1ej.iDLzlEQPh5rBNiLktGpva/PUqH942",
+        "physicianID": 1
+    },
+    {
+        "patientID": 5,
+        "firstName": "Homer",
+        "lastName": "Simpsons",
+        "birthDate": "1979/05/12",
+        "email": "homerSimpsons@email.com",
+        "primaryNo": "4165555555",
+        "secondaryNo": "9051231234",
+        "sex": "Male",
+        "address": "742 Evergreen Terrace, Toronto, ON, Canada",
+        "username": "HomerSimpsons",
+        "password": "$2a$10$UJVyygr/D5d4xEnos.m6jOcAt1wsSR/N0aWi0KpoMrDKxZXqOrLi6",
+        "physicianID": 1
+    },
+    {
+        "patientID": 7,
+        "firstName": "Lisa",
+        "lastName": "Simpsons",
+        "birthDate": "2009/05/11",
+        "email": "lisaSimpsons@email.com",
+        "primaryNo": "9051231324",
+        "secondaryNo": null,
+        "sex": "Female",
+        "address": "742 Evergreen Terrace, Toronto, ON, Canada",
+        "username": "LisaSimpsons",
+        "password": "$2a$10$HC59WovZzO9O3T5HMQfVTeaPGFrPTbxFXKTszPWCxwCddMrgitOdy",
+        "physicianID": 1
+    },
+    {
+        "patientID": 8,
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "birthDate": "1986/06/28",
+        "email": "brueWayne@wayneenterprises.com",
+        "primaryNo": "4165555555",
+        "secondaryNo": null,
+        "sex": "Male",
+        "address": "100 DC Universe Street, Toronto, ON, Canada",
+        "username": "bruceWayne",
+        "password": "$2a$10$9W8kmI9BUmjlemwSYxcx2eeGhAePgZYwAM5c8gIwK0IDYanZbgR1W",
+        "physicianID": 4
+    },
+    {
+        "patientID": 9,
+        "firstName": "Harvet",
+        "lastName": "Dent",
+        "birthDate": "1980/12/31",
+        "email": "harvey@email.com",
+        "primaryNo": "6477899874",
+        "secondaryNo": null,
+        "sex": "Male",
+        "address": "305 DC Universe Street, Toronto, ON, Canada",
+        "username": "HarveyDent ",
+        "password": "$2a$10$3Yldusp23umdES0CdthlOOlP7XTn/TdklYNRg9kxOivk/OZhZttBq",
+        "physicianID": 4
+    }
+]
