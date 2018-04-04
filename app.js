@@ -238,7 +238,6 @@ connection.sync({
   });
 */
 
-/**
   Physician.create({
     firstName: "Hugo",
     lastName: "Strange",
@@ -264,7 +263,6 @@ connection.sync({
     username: "janeDoe",
     password: "janepass"
   });
-  */
 });
 
 //All the Routes

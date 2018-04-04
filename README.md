@@ -1,4 +1,8 @@
 # Mobile, and Wireless Health Monitor
+Please ensure the following db credentials exist:
+user: daljit_test
+password: testPass
+database: HealthAppUsers
 
 RESTful API for Users Information.
 
