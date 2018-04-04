@@ -166,7 +166,6 @@ connection.sync({
   // force: true,
   logging: console.log()
 }).then(function () {
-/**
   Users.create({
     firstName: "John",
     lastName: "Doe",
@@ -236,7 +235,6 @@ connection.sync({
     password: "twoface",
     physicianID: 2
   });
-*/
 
 /**
   Physician.create({
